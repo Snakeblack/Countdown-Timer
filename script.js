@@ -5,7 +5,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const newYears = '25 Dec 2021'; // Navidad
+const newYears = '25 Dec 2022'; // Navidad
 
 function countdown() {
     const newYearsDate = new Date(newYears);
